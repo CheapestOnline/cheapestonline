@@ -4,7 +4,7 @@ CheapestOnline is a minimal theme created for Jekyll. The main purpose of Cheape
 ![CheapestOnline](/img/CheapestOnline01.png "CheapestOnline")
 
 ## Setup & usage
-CheapestOnline may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/cheapestonline/archive/master.zip).
+CheapestOnline may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/CheapestOnline/cheapestonline/archive/master.zip).
 
 After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/cheapestonline/`` and you will find it there.
 
