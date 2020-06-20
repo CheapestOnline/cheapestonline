@@ -43,10 +43,10 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ## Author
 
-### Jacopo Rabolini
+### CheapestOnline
 
-- Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
-- Linkedin: [linkedin.com/in/jacopo-rabolini/](https://www.linkedin.com/in/jacopo-rabolini/)
+- Web site: [cheapestonline.github.io/cheapestonline/](https://cheapestonline.github.io/cheapestonline/)
+- Linkedin: [linkedin.com/in/cheapestonline/](https://www.linkedin.com/in/cheapestonline/)
 
 ## License
 CheapestOnline is released under [MIT License](license.md).
