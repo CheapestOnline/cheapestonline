@@ -1,7 +1,7 @@
 ## About
 CheapestOnline is a minimal theme created for Jekyll. The main purpose of CheapestOnline is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
-![CheapestOnline](/img/CheapestOnline01.png "CheapestOnline")
+![CheapestOnline](/img/Emerald01.png "CheapestOnline")
 
 ## Setup & usage
 CheapestOnline may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/CheapestOnline/cheapestonline/archive/master.zip).
